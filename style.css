@@ -1,0 +1,17 @@
+* {
+    margin: auto;
+}
+
+body {
+    background-color: rgb(238, 188, 238);
+    color: rgb(63, 4, 63);
+}
+
+.container {
+    display: grid;
+    width: 80%;
+}
+
+video {
+    width: 100%;
+}
